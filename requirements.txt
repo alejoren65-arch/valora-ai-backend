@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+numpy
+pandas
+scikit-learn
+requests
+python-dotenv
+python-jose
+passlib[bcrypt]
+reportlab
+psycopg2-binary
